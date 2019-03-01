@@ -1,0 +1,9 @@
+[
+  {
+    "artifact": "frcJava (in project foccacia-code-2)",
+    "target": "roborio",
+    "debugfile": "frcJava_roborio.debugconfig",
+    "project": "foccacia-code-2",
+    "language": "java"
+  }
+]
